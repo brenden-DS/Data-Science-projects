@@ -11,10 +11,10 @@ The dataset used in this project is obtained from the IBM Data Science Professio
 
 Tools and Libraries:
 
-Python
-Jupyter Notebook
-Pandas
-Matplotlib
+Python,
+Jupyter Notebook,
+Pandas,
+Matplotlib,
 Seaborn
 
 Analysis:
